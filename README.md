@@ -7,15 +7,15 @@
 
 - Currently Learning << **WordPress** << **openGL**
 
-- Portfolio << [https://mattzafeiriou.github.io/portfolio/](https://mattzafeiriou.github.io/portfolio/)
+- Portfolio << [https://portfolio.mattzafeiriou.gr](https://portfolio.mattzafeiriou.gr)
 
-- Blog << [https://mattzafeiriou.com](https://mattzafeiriou.com)
+- Blog << [https://mattzafeiriou.gr](https://mattzafeiriou.gr)
 
 - Current Knowledge << **React** << **Node.js** << **Next.js** << **WordPress** << **C++** << **Java** << **JavaScript**
 
 - Email << **matuaioszafeiriou@gmail.com**
 
-- Resume << [https://mattzafeiriou.github.io/portfolio/cv.pdf](https://mattzafeiriou.github.io/portfolio/cv.pdf)
+- Resume << [https://cv.mattzafeiriou.gr](https://cv.mattzafeiriou.gr)
 
 - About Me << **I am me**
 
