@@ -1,23 +1,35 @@
-<h1 align="center">I am Matt Zafeiriou,</h1>
-<h3 align="center">Software Engineer && Web Developer</h3>
+<h1 align="center">Matt Zafeiriou,</h1>
+<h3 align="center">Software Engineer and Programmer</h3>
+<h4 align="center">I will take your project and make it skyrocket, I think</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattzafeiriou&label=Profile%20views&color=0e75b6&style=flat" alt="mattzafeiriou" /> </p>
 
-- Current Project << [CoreEngine](https://github.com/MattZafeiriou/CoreEngine) << [CoreMachine](https://github.com/MattZafeiriou/CoreMachine)
+- Currently I work with personal clients, but in my free time I play the piano
 
-- Currently Learning << **WordPress** << **openGL**
+- Currently trying to compose a piano piece
 
-- Portfolio << [https://portfolio.mattzafeiriou.gr](https://portfolio.mattzafeiriou.gr)
+- You can find my outdated portfolio [here](https://portfolio.mattzafeiriou.gr)
 
-- Blog << [https://mattzafeiriou.gr](https://mattzafeiriou.gr)
+- For serious questions you may mail me at [matuaioszafeiriou@gmail.com](mailto:matuaioszafeiriou@gmail.com)
 
-- Current Knowledge << **React** << **Node.js** << **Next.js** << **WordPress** << **C++** << **Java** << **JavaScript**
+- Experience may include the following tech stacks:
+  - JavaScript (Native)
+  - React (Web)
+  - React Native (Mobile)
+  - Firebase
+  - Flutter (Mobile)
+  - Express
+  - Docker
+  - Java (Spring)
+  - C# (.NET mostly)
+  - Both C and C++
+  - Bootstrap (CSS)
+  - TailwindCSS
+  - Mysql / MariaDB
+  - MongoDB
+  - i cant recall anything else rn
 
-- Email << **matuaioszafeiriou@gmail.com**
-
-- Resume << [https://cv.mattzafeiriou.gr](https://cv.mattzafeiriou.gr)
-
-- About Me << **I am me**
+- Some short summary about me: My name is Matt, I am 20 years old and I like to program. I started just because I thought it was fun, until it wasn't. Right now I study at the University of Macedonia (uom.gr/dai) and because I have too much free time, I work simultaneously. I have knowledge on many tech stacks and I think I am fun at parties. I play the piano, I hang out daily with my friends and I like art.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
